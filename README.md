@@ -6,7 +6,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcardosodev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## About me:
+## Sobre mim:
 - 🌱 Estou começando a estudar React
 - 😎 Quero ser Front-end
 - 💬 Maluco por r&b
@@ -20,7 +20,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
- ## Contact
+ ## Contato
 <div align="center">
   <a height="40" href="https://www.instagram.com/cardjoso/" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a height="40" href="https://www.linkedin.com/in/gabrielcardosodev/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
