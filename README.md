@@ -9,7 +9,6 @@
 ## Sobre mim:
 - 🌱 Estou estudando JavaScript
 - 😎 Quero ser Front-end
-- 🐶 Sou pai de um lindo border collie chamado Apolo
 
   
  ## Hoje, tenho as seguintes habilidades:
