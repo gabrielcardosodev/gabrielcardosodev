@@ -1,4 +1,4 @@
-<img width="1500px" height="500px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Great_Wave_off_Kanagawa.jpg/2560px-The_Great_Wave_off_Kanagawa.jpg">
+<img align="right" width="600px" height="350px" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
 ### Hello World! I'm Gabriel Cardoso 
 Web Development student
@@ -18,8 +18,8 @@ Web Development student
 
  <div>
   <a href="https://github.com/gabrielcardosodev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielcardosodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcardosodev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielcardosodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcardosodev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
 
@@ -32,8 +32,8 @@ Web Development student
 
 ### Contact
 <div>
-      <a height="40" href="https://www.instagram.com/cardjoso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
-      <a height="40" href="https://www.linkedin.com/in/gabrielcardosodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-      <a height="40" href="https://www.twitter.com/cardjoso" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
-      <a href = "mailto:gabrielcardosodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a height="40" href="https://www.instagram.com/cardjoso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-628FDA?style=for-the-badge&logo=instagram&logoColor=white"></a>
+      <a height="40" href="https://www.linkedin.com/in/gabrielcardosodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-628FDA?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+      <a height="40" href="https://www.twitter.com/cardjoso" target="_blank"><img src="https://img.shields.io/badge/Twitter-628FDA?style=for-the-badge&logo=twitter&logoColor=white"></a>
+      <a href = "mailto:gabrielcardosodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-628FDA?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
