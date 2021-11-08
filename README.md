@@ -1,4 +1,4 @@
-<img align="right" width="400px" height="350px" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
+<img align="right" width="400px" height="300px" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
 ### Hello World! I'm Gabriel Cardoso 
 Web Development student
