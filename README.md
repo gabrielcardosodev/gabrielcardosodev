@@ -34,7 +34,7 @@ Web Development student
 <br><br>
 
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 🙍‍♂ &nbsp;Social Links
 <div>
       <a height="40" href="https://www.instagram.com/cardjoso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-748FAC?style=for-the-badge&logo=instagram&logoColor=white"></a>
       <a height="40" href="https://www.linkedin.com/in/gabrielcardosodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-748FAC?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
