@@ -6,7 +6,7 @@ Web Development student
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcardosodev&color=003140" alt="Profile views" /> </p>
 
 ### About me
-- 🌱 I'm learning JavaScript
+- 🌱 I'm learning React JS
 
 - 👨‍💻 I am currently studying at Rocketseat
 
