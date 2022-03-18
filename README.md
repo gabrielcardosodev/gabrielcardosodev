@@ -3,7 +3,9 @@
 
 ### Hello World! I'm Gabriel Cardoso 
 Web Development student
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcardosodev&color=003140" alt="Profile views" /> </p>
+<p align="left"> 
+	<img src="https://komarev.com/ghpvc/?username=gabrielcardosodev&color=003140" alt="Profile views" /> 
+</p>
 
 ### About me
 - 🌱 I'm learning React JS
