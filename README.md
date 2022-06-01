@@ -1,5 +1,4 @@
-<img align="right" width="500em"
-					src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"/>
+<img align="right" width="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ### Hello World! I'm Gabriel Cardoso 
 Web Development student
