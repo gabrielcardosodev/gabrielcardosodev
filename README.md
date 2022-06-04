@@ -1,6 +1,6 @@
 <img align="right" width="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-### Hello World! I'm Gabriel Cardoso 
+### Hello! I'm Gabriel Cardoso 
 Web Development student
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=gabrielcardosodev&color=003140" alt="Profile views" /> 
