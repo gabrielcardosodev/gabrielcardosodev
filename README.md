@@ -38,11 +38,6 @@ Web Development student
 </div>
 <br><br>
 
-
-<br><br>
-
-
-
 ## 🙍‍♂ &nbsp;Social Links
 <div>
       <a height="40" href="https://www.linkedin.com/in/gabrielcardosodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-003140?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
