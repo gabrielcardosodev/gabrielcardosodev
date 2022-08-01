@@ -29,12 +29,18 @@ Web Development student
  <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
- <div>
+ <div align='center'>
   <a href="https://github.com/gabrielcardosodev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielcardosodev&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcardosodev&layout=compact&langs_count=7&theme=noctis_minimus"/>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabrielcardosodev&date_format=M%20j%5B%2C%20Y%5D&stroke=B69F83&fire=B69F83&background=1B2932&border=B69F83&ring=B69F83&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD&sideLabels=DDDDDD)](https://git.io/streak-stats)
 </div>
 <br><br>
+
+
+<br><br>
+
 
 
 ## 🙍‍♂ &nbsp;Social Links
